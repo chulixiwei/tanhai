@@ -1,5 +1,7 @@
 # Tanhai (探海) — Red Team Asset Liveness Probe
 
+## [简体中文](README.md) | [English](README_zh.md)
+
 > Discovering every target in the vast ocean of networks.
 > Fast & Multi-purpose HTTP Toolkit for Red Team Asset Discovery.
 
