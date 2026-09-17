@@ -1,3 +1,7 @@
+# Tanhai - Red Team Asset Discovery & Alive Scanning Tool
+
+[简体中文](README.md) | [English](README_zh.md)
+
 # 探海 (Tanhai) — 护网红队资产存活探测工具
 
 > 在网络之海中，探得每一个目标。
