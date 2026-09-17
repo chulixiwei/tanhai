@@ -1,6 +1,6 @@
 # 探海 (Tanhai) — 护网红队资产存活探测工具
 
-[简体中文](README.md) | [English](README_zh.md)
+## [简体中文](README.md) | [English](README_EN.md)
 
 > 在网络之海中，探得每一个目标。
 > Fast & Multi-purpose HTTP Toolkit for Red Team Asset Discovery.
